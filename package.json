@@ -1,4 +1,14 @@
 {
+  "name": "todos-crud-using-hono",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "@hono/node-server": "^1.13.1",
     "hono": "^4.6.3"
